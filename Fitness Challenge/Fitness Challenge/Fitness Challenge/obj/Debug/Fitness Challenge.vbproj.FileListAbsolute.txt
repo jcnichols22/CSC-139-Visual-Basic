@@ -1,0 +1,16 @@
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Fitness Challenge\Fitness Challenge\Fitness Challenge\bin\Debug\Fitness Challenge.exe.config
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Fitness Challenge\Fitness Challenge\Fitness Challenge\bin\Debug\Fitness Challenge.exe
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Fitness Challenge\Fitness Challenge\Fitness Challenge\bin\Debug\Fitness Challenge.pdb
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Fitness Challenge\Fitness Challenge\Fitness Challenge\bin\Debug\Fitness Challenge.xml
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Fitness Challenge\Fitness Challenge\Fitness Challenge\obj\Debug\Fitness Challenge.vbproj.AssemblyReference.cache
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Fitness Challenge\Fitness Challenge\Fitness Challenge\obj\Debug\Fitness_Challenge.frmFitness.resources
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Fitness Challenge\Fitness Challenge\Fitness Challenge\obj\Debug\Fitness_Challenge.Resources.resources
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Fitness Challenge\Fitness Challenge\Fitness Challenge\obj\Debug\Fitness Challenge.vbproj.GenerateResource.cache
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Fitness Challenge\Fitness Challenge\Fitness Challenge\obj\Debug\Fitness Challenge.vbproj.CoreCompileInputs.cache
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Fitness Challenge\Fitness Challenge\Fitness Challenge\obj\Debug\Fitness Challenge.exe
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Fitness Challenge\Fitness Challenge\Fitness Challenge\obj\Debug\Fitness Challenge.xml
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Fitness Challenge\Fitness Challenge\Fitness Challenge\obj\Debug\Fitness Challenge.pdb
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Fitness Challenge\Fitness Challenge\Fitness Challenge\bin\Debug\Fitness Challenge.exe.manifest
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Fitness Challenge\Fitness Challenge\Fitness Challenge\bin\Debug\Fitness Challenge.application
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Fitness Challenge\Fitness Challenge\Fitness Challenge\obj\Debug\Fitness Challenge.exe.manifest
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Fitness Challenge\Fitness Challenge\Fitness Challenge\obj\Debug\Fitness Challenge.application

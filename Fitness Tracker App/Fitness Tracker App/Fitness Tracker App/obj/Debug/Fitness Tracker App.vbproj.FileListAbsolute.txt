@@ -1,0 +1,12 @@
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Fitness Tracker App\Fitness Tracker App\Fitness Tracker App\obj\Debug\Fitness Tracker App.vbproj.AssemblyReference.cache
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Fitness Tracker App\Fitness Tracker App\Fitness Tracker App\obj\Debug\Fitness_Tracker_App.frmFitnessTrackerApp.resources
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Fitness Tracker App\Fitness Tracker App\Fitness Tracker App\obj\Debug\Fitness_Tracker_App.Resources.resources
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Fitness Tracker App\Fitness Tracker App\Fitness Tracker App\obj\Debug\Fitness Tracker App.vbproj.GenerateResource.cache
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Fitness Tracker App\Fitness Tracker App\Fitness Tracker App\obj\Debug\Fitness Tracker App.vbproj.CoreCompileInputs.cache
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Fitness Tracker App\Fitness Tracker App\Fitness Tracker App\bin\Debug\Fitness Tracker App.exe.config
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Fitness Tracker App\Fitness Tracker App\Fitness Tracker App\bin\Debug\Fitness Tracker App.exe
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Fitness Tracker App\Fitness Tracker App\Fitness Tracker App\bin\Debug\Fitness Tracker App.pdb
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Fitness Tracker App\Fitness Tracker App\Fitness Tracker App\bin\Debug\Fitness Tracker App.xml
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Fitness Tracker App\Fitness Tracker App\Fitness Tracker App\obj\Debug\Fitness Tracker App.exe
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Fitness Tracker App\Fitness Tracker App\Fitness Tracker App\obj\Debug\Fitness Tracker App.xml
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Fitness Tracker App\Fitness Tracker App\Fitness Tracker App\obj\Debug\Fitness Tracker App.pdb
