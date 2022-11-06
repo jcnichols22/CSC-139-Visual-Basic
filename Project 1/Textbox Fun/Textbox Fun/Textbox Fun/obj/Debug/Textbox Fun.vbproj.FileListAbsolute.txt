@@ -1,0 +1,23 @@
+C:\Users\presenter\source\repos\Textbox Fun\Textbox Fun\bin\Debug\Textbox Fun.exe.config
+C:\Users\presenter\source\repos\Textbox Fun\Textbox Fun\bin\Debug\Textbox Fun.exe
+C:\Users\presenter\source\repos\Textbox Fun\Textbox Fun\bin\Debug\Textbox Fun.pdb
+C:\Users\presenter\source\repos\Textbox Fun\Textbox Fun\bin\Debug\Textbox Fun.xml
+C:\Users\presenter\source\repos\Textbox Fun\Textbox Fun\obj\Debug\Textbox_Fun.Form1.resources
+C:\Users\presenter\source\repos\Textbox Fun\Textbox Fun\obj\Debug\Textbox_Fun.Resources.resources
+C:\Users\presenter\source\repos\Textbox Fun\Textbox Fun\obj\Debug\Textbox Fun.vbproj.GenerateResource.cache
+C:\Users\presenter\source\repos\Textbox Fun\Textbox Fun\obj\Debug\Textbox Fun.vbproj.CoreCompileInputs.cache
+C:\Users\presenter\source\repos\Textbox Fun\Textbox Fun\obj\Debug\Textbox Fun.exe
+C:\Users\presenter\source\repos\Textbox Fun\Textbox Fun\obj\Debug\Textbox Fun.xml
+C:\Users\presenter\source\repos\Textbox Fun\Textbox Fun\obj\Debug\Textbox Fun.pdb
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Project 1\Textbox Fun\Textbox Fun\Textbox Fun\bin\Debug\Textbox Fun.exe.config
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Project 1\Textbox Fun\Textbox Fun\Textbox Fun\bin\Debug\Textbox Fun.exe
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Project 1\Textbox Fun\Textbox Fun\Textbox Fun\bin\Debug\Textbox Fun.pdb
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Project 1\Textbox Fun\Textbox Fun\Textbox Fun\bin\Debug\Textbox Fun.xml
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Project 1\Textbox Fun\Textbox Fun\Textbox Fun\obj\Debug\Textbox Fun.vbproj.AssemblyReference.cache
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Project 1\Textbox Fun\Textbox Fun\Textbox Fun\obj\Debug\Textbox_Fun.Form1.resources
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Project 1\Textbox Fun\Textbox Fun\Textbox Fun\obj\Debug\Textbox_Fun.Resources.resources
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Project 1\Textbox Fun\Textbox Fun\Textbox Fun\obj\Debug\Textbox Fun.vbproj.GenerateResource.cache
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Project 1\Textbox Fun\Textbox Fun\Textbox Fun\obj\Debug\Textbox Fun.vbproj.CoreCompileInputs.cache
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Project 1\Textbox Fun\Textbox Fun\Textbox Fun\obj\Debug\Textbox Fun.exe
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Project 1\Textbox Fun\Textbox Fun\Textbox Fun\obj\Debug\Textbox Fun.xml
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Project 1\Textbox Fun\Textbox Fun\Textbox Fun\obj\Debug\Textbox Fun.pdb
