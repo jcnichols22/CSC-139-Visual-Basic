@@ -1,0 +1,12 @@
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Broadway Ticket Group Discount\Broadway Ticket Group Discount\Broadway Ticket Group Discount\bin\Debug\Broadway Ticket Group Discount.exe.config
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Broadway Ticket Group Discount\Broadway Ticket Group Discount\Broadway Ticket Group Discount\bin\Debug\Broadway Ticket Group Discount.exe
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Broadway Ticket Group Discount\Broadway Ticket Group Discount\Broadway Ticket Group Discount\bin\Debug\Broadway Ticket Group Discount.pdb
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Broadway Ticket Group Discount\Broadway Ticket Group Discount\Broadway Ticket Group Discount\bin\Debug\Broadway Ticket Group Discount.xml
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Broadway Ticket Group Discount\Broadway Ticket Group Discount\Broadway Ticket Group Discount\obj\Debug\Broadway Ticket Group Discount.vbproj.AssemblyReference.cache
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Broadway Ticket Group Discount\Broadway Ticket Group Discount\Broadway Ticket Group Discount\obj\Debug\Broadway_Ticket_Group_Discount.frmBroadwayTickets.resources
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Broadway Ticket Group Discount\Broadway Ticket Group Discount\Broadway Ticket Group Discount\obj\Debug\Broadway_Ticket_Group_Discount.Resources.resources
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Broadway Ticket Group Discount\Broadway Ticket Group Discount\Broadway Ticket Group Discount\obj\Debug\Broadway Ticket Group Discount.vbproj.GenerateResource.cache
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Broadway Ticket Group Discount\Broadway Ticket Group Discount\Broadway Ticket Group Discount\obj\Debug\Broadway Ticket Group Discount.vbproj.CoreCompileInputs.cache
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Broadway Ticket Group Discount\Broadway Ticket Group Discount\Broadway Ticket Group Discount\obj\Debug\Broadway Ticket Group Discount.exe
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Broadway Ticket Group Discount\Broadway Ticket Group Discount\Broadway Ticket Group Discount\obj\Debug\Broadway Ticket Group Discount.xml
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Broadway Ticket Group Discount\Broadway Ticket Group Discount\Broadway Ticket Group Discount\obj\Debug\Broadway Ticket Group Discount.pdb

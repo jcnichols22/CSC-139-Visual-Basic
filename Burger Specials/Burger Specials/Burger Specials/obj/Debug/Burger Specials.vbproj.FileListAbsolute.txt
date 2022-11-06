@@ -1,0 +1,12 @@
+C:\Users\jcnic\Documents\School\CSC-139\Burger Specials\Burger Specials\Burger Specials\bin\Debug\Burger Specials.exe.config
+C:\Users\jcnic\Documents\School\CSC-139\Burger Specials\Burger Specials\Burger Specials\bin\Debug\Burger Specials.exe
+C:\Users\jcnic\Documents\School\CSC-139\Burger Specials\Burger Specials\Burger Specials\bin\Debug\Burger Specials.pdb
+C:\Users\jcnic\Documents\School\CSC-139\Burger Specials\Burger Specials\Burger Specials\bin\Debug\Burger Specials.xml
+C:\Users\jcnic\Documents\School\CSC-139\Burger Specials\Burger Specials\Burger Specials\obj\Debug\Burger Specials.vbproj.AssemblyReference.cache
+C:\Users\jcnic\Documents\School\CSC-139\Burger Specials\Burger Specials\Burger Specials\obj\Debug\Burger_Specials.frmBurgerSpecials.resources
+C:\Users\jcnic\Documents\School\CSC-139\Burger Specials\Burger Specials\Burger Specials\obj\Debug\Burger_Specials.Resources.resources
+C:\Users\jcnic\Documents\School\CSC-139\Burger Specials\Burger Specials\Burger Specials\obj\Debug\Burger Specials.vbproj.GenerateResource.cache
+C:\Users\jcnic\Documents\School\CSC-139\Burger Specials\Burger Specials\Burger Specials\obj\Debug\Burger Specials.vbproj.CoreCompileInputs.cache
+C:\Users\jcnic\Documents\School\CSC-139\Burger Specials\Burger Specials\Burger Specials\obj\Debug\Burger Specials.exe
+C:\Users\jcnic\Documents\School\CSC-139\Burger Specials\Burger Specials\Burger Specials\obj\Debug\Burger Specials.xml
+C:\Users\jcnic\Documents\School\CSC-139\Burger Specials\Burger Specials\Burger Specials\obj\Debug\Burger Specials.pdb
