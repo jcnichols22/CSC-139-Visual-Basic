@@ -1,0 +1,12 @@
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Smart Home Monthly Electric Savings\Smart Home Monthly Electric Savings\bin\Debug\Smart Home Monthly Electric Savings.exe.config
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Smart Home Monthly Electric Savings\Smart Home Monthly Electric Savings\bin\Debug\Smart Home Monthly Electric Savings.exe
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Smart Home Monthly Electric Savings\Smart Home Monthly Electric Savings\bin\Debug\Smart Home Monthly Electric Savings.pdb
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Smart Home Monthly Electric Savings\Smart Home Monthly Electric Savings\bin\Debug\Smart Home Monthly Electric Savings.xml
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Smart Home Monthly Electric Savings\Smart Home Monthly Electric Savings\obj\Debug\Smart Home Monthly Electric Savings.vbproj.AssemblyReference.cache
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Smart Home Monthly Electric Savings\Smart Home Monthly Electric Savings\obj\Debug\Smart_Home_Monthly_Electric_Savings.frmSmartHomeApplication.resources
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Smart Home Monthly Electric Savings\Smart Home Monthly Electric Savings\obj\Debug\Smart_Home_Monthly_Electric_Savings.Resources.resources
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Smart Home Monthly Electric Savings\Smart Home Monthly Electric Savings\obj\Debug\Smart Home Monthly Electric Savings.vbproj.GenerateResource.cache
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Smart Home Monthly Electric Savings\Smart Home Monthly Electric Savings\obj\Debug\Smart Home Monthly Electric Savings.vbproj.CoreCompileInputs.cache
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Smart Home Monthly Electric Savings\Smart Home Monthly Electric Savings\obj\Debug\Smart Home Monthly Electric Savings.exe
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Smart Home Monthly Electric Savings\Smart Home Monthly Electric Savings\obj\Debug\Smart Home Monthly Electric Savings.xml
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Smart Home Monthly Electric Savings\Smart Home Monthly Electric Savings\obj\Debug\Smart Home Monthly Electric Savings.pdb

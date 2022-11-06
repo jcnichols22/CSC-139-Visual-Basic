@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Smart Home Monthly Electric Savings", "Smart Home Monthly Electric Savings\Smart Home Monthly Electric Savings.vbproj", "{515D3972-5137-4C4D-9CDC-755E87C1C6E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{515D3972-5137-4C4D-9CDC-755E87C1C6E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{515D3972-5137-4C4D-9CDC-755E87C1C6E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{515D3972-5137-4C4D-9CDC-755E87C1C6E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{515D3972-5137-4C4D-9CDC-755E87C1C6E5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FFB46C87-D91F-480B-84A6-074D1C1A7083}
+	EndGlobalSection
+EndGlobal

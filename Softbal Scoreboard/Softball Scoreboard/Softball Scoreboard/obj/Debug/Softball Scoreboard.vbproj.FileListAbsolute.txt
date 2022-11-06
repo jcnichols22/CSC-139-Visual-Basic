@@ -1,0 +1,12 @@
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Softbal Scoreboard\Softball Scoreboard\Softball Scoreboard\bin\Debug\Softball Scoreboard.exe.config
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Softbal Scoreboard\Softball Scoreboard\Softball Scoreboard\bin\Debug\Softball Scoreboard.exe
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Softbal Scoreboard\Softball Scoreboard\Softball Scoreboard\bin\Debug\Softball Scoreboard.pdb
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Softbal Scoreboard\Softball Scoreboard\Softball Scoreboard\bin\Debug\Softball Scoreboard.xml
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Softbal Scoreboard\Softball Scoreboard\Softball Scoreboard\obj\Debug\Softball Scoreboard.vbproj.AssemblyReference.cache
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Softbal Scoreboard\Softball Scoreboard\Softball Scoreboard\obj\Debug\Softball_Scoreboard.frmSoftballScoreboard.resources
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Softbal Scoreboard\Softball Scoreboard\Softball Scoreboard\obj\Debug\Softball_Scoreboard.Resources.resources
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Softbal Scoreboard\Softball Scoreboard\Softball Scoreboard\obj\Debug\Softball Scoreboard.vbproj.GenerateResource.cache
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Softbal Scoreboard\Softball Scoreboard\Softball Scoreboard\obj\Debug\Softball Scoreboard.vbproj.CoreCompileInputs.cache
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Softbal Scoreboard\Softball Scoreboard\Softball Scoreboard\obj\Debug\Softball Scoreboard.exe
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Softbal Scoreboard\Softball Scoreboard\Softball Scoreboard\obj\Debug\Softball Scoreboard.xml
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Softbal Scoreboard\Softball Scoreboard\Softball Scoreboard\obj\Debug\Softball Scoreboard.pdb
