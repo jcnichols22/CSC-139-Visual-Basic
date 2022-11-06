@@ -1,0 +1,12 @@
+C:\Users\jcnic\Documents\School\CSC-139\Virtual Reality Headsets\Virtual Reality Headsets\Virtual Reality Headsets\bin\Debug\Virtual Reality Headsets.exe.config
+C:\Users\jcnic\Documents\School\CSC-139\Virtual Reality Headsets\Virtual Reality Headsets\Virtual Reality Headsets\bin\Debug\Virtual Reality Headsets.exe
+C:\Users\jcnic\Documents\School\CSC-139\Virtual Reality Headsets\Virtual Reality Headsets\Virtual Reality Headsets\bin\Debug\Virtual Reality Headsets.pdb
+C:\Users\jcnic\Documents\School\CSC-139\Virtual Reality Headsets\Virtual Reality Headsets\Virtual Reality Headsets\bin\Debug\Virtual Reality Headsets.xml
+C:\Users\jcnic\Documents\School\CSC-139\Virtual Reality Headsets\Virtual Reality Headsets\Virtual Reality Headsets\obj\Debug\Virtual Reality Headsets.vbproj.AssemblyReference.cache
+C:\Users\jcnic\Documents\School\CSC-139\Virtual Reality Headsets\Virtual Reality Headsets\Virtual Reality Headsets\obj\Debug\Virtual_Reality_Headsets.Resources.resources
+C:\Users\jcnic\Documents\School\CSC-139\Virtual Reality Headsets\Virtual Reality Headsets\Virtual Reality Headsets\obj\Debug\Virtual Reality Headsets.vbproj.GenerateResource.cache
+C:\Users\jcnic\Documents\School\CSC-139\Virtual Reality Headsets\Virtual Reality Headsets\Virtual Reality Headsets\obj\Debug\Virtual Reality Headsets.vbproj.CoreCompileInputs.cache
+C:\Users\jcnic\Documents\School\CSC-139\Virtual Reality Headsets\Virtual Reality Headsets\Virtual Reality Headsets\obj\Debug\Virtual Reality Headsets.exe
+C:\Users\jcnic\Documents\School\CSC-139\Virtual Reality Headsets\Virtual Reality Headsets\Virtual Reality Headsets\obj\Debug\Virtual Reality Headsets.xml
+C:\Users\jcnic\Documents\School\CSC-139\Virtual Reality Headsets\Virtual Reality Headsets\Virtual Reality Headsets\obj\Debug\Virtual Reality Headsets.pdb
+C:\Users\jcnic\Documents\School\CSC-139\Virtual Reality Headsets\Virtual Reality Headsets\Virtual Reality Headsets\obj\Debug\Virtual_Reality_Headsets.frmVRForward.resources

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Spring Break Travel Specials", "Spring Break Travel Specials\Spring Break Travel Specials.vbproj", "{00B02650-2032-4593-9670-2D427BCAB38F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00B02650-2032-4593-9670-2D427BCAB38F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00B02650-2032-4593-9670-2D427BCAB38F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00B02650-2032-4593-9670-2D427BCAB38F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00B02650-2032-4593-9670-2D427BCAB38F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {69F3D03C-EFBC-4120-A3ED-AD12A68526F6}
+	EndGlobalSection
+EndGlobal
