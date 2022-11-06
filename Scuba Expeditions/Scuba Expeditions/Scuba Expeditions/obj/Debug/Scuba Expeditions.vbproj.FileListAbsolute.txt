@@ -1,0 +1,13 @@
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Scuba Expeditions\Scuba Expeditions\Scuba Expeditions\obj\Debug\Scuba Expeditions.vbproj.AssemblyReference.cache
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Scuba Expeditions\Scuba Expeditions\Scuba Expeditions\obj\Debug\Scuba_Expeditions.frmScuba.resources
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Scuba Expeditions\Scuba Expeditions\Scuba Expeditions\obj\Debug\Scuba_Expeditions.Resources.resources
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Scuba Expeditions\Scuba Expeditions\Scuba Expeditions\obj\Debug\Scuba_Expeditions.SplashScreen1.resources
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Scuba Expeditions\Scuba Expeditions\Scuba Expeditions\obj\Debug\Scuba Expeditions.vbproj.GenerateResource.cache
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Scuba Expeditions\Scuba Expeditions\Scuba Expeditions\obj\Debug\Scuba Expeditions.vbproj.CoreCompileInputs.cache
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Scuba Expeditions\Scuba Expeditions\Scuba Expeditions\bin\Debug\Scuba Expeditions.exe.config
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Scuba Expeditions\Scuba Expeditions\Scuba Expeditions\bin\Debug\Scuba Expeditions.exe
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Scuba Expeditions\Scuba Expeditions\Scuba Expeditions\bin\Debug\Scuba Expeditions.pdb
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Scuba Expeditions\Scuba Expeditions\Scuba Expeditions\bin\Debug\Scuba Expeditions.xml
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Scuba Expeditions\Scuba Expeditions\Scuba Expeditions\obj\Debug\Scuba Expeditions.exe
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Scuba Expeditions\Scuba Expeditions\Scuba Expeditions\obj\Debug\Scuba Expeditions.xml
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Scuba Expeditions\Scuba Expeditions\Scuba Expeditions\obj\Debug\Scuba Expeditions.pdb

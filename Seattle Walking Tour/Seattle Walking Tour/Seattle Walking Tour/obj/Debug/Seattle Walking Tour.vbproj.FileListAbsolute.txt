@@ -1,0 +1,12 @@
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Seattle Walking Tour\Seattle Walking Tour\Seattle Walking Tour\bin\Debug\Seattle Walking Tour.exe.config
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Seattle Walking Tour\Seattle Walking Tour\Seattle Walking Tour\bin\Debug\Seattle Walking Tour.exe
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Seattle Walking Tour\Seattle Walking Tour\Seattle Walking Tour\bin\Debug\Seattle Walking Tour.pdb
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Seattle Walking Tour\Seattle Walking Tour\Seattle Walking Tour\bin\Debug\Seattle Walking Tour.xml
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Seattle Walking Tour\Seattle Walking Tour\Seattle Walking Tour\obj\Debug\Seattle Walking Tour.vbproj.AssemblyReference.cache
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Seattle Walking Tour\Seattle Walking Tour\Seattle Walking Tour\obj\Debug\Seattle_Walking_Tour.frmSeattleWalkingTour.resources
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Seattle Walking Tour\Seattle Walking Tour\Seattle Walking Tour\obj\Debug\Seattle_Walking_Tour.Resources.resources
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Seattle Walking Tour\Seattle Walking Tour\Seattle Walking Tour\obj\Debug\Seattle Walking Tour.vbproj.GenerateResource.cache
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Seattle Walking Tour\Seattle Walking Tour\Seattle Walking Tour\obj\Debug\Seattle Walking Tour.vbproj.CoreCompileInputs.cache
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Seattle Walking Tour\Seattle Walking Tour\Seattle Walking Tour\obj\Debug\Seattle Walking Tour.exe
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Seattle Walking Tour\Seattle Walking Tour\Seattle Walking Tour\obj\Debug\Seattle Walking Tour.xml
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Seattle Walking Tour\Seattle Walking Tour\Seattle Walking Tour\obj\Debug\Seattle Walking Tour.pdb
