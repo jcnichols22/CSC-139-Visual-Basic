@@ -1,0 +1,13 @@
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Depreciation\Depreciation\bin\Debug\Depreciation.exe.config
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Depreciation\Depreciation\bin\Debug\Depreciation.exe
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Depreciation\Depreciation\bin\Debug\Depreciation.pdb
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Depreciation\Depreciation\bin\Debug\Depreciation.xml
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Depreciation\Depreciation\obj\Debug\Depreciation.vbproj.AssemblyReference.cache
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Depreciation\Depreciation\obj\Debug\Depreciation.frmDepreciation.resources
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Depreciation\Depreciation\obj\Debug\Depreciation.frmDisplayInventory.resources
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Depreciation\Depreciation\obj\Debug\Depreciation.Resources.resources
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Depreciation\Depreciation\obj\Debug\Depreciation.vbproj.GenerateResource.cache
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Depreciation\Depreciation\obj\Debug\Depreciation.vbproj.CoreCompileInputs.cache
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Depreciation\Depreciation\obj\Debug\Depreciation.exe
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Depreciation\Depreciation\obj\Debug\Depreciation.xml
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Depreciation\Depreciation\obj\Debug\Depreciation.pdb
