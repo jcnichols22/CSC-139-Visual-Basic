@@ -1,0 +1,12 @@
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Planetary Weight\Planetary Weight\Planetary Weight\obj\Debug\Planetary Weight.vbproj.AssemblyReference.cache
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Planetary Weight\Planetary Weight\Planetary Weight\obj\Debug\Planetary_Weight.frmPlanetaryWeight.resources
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Planetary Weight\Planetary Weight\Planetary Weight\obj\Debug\Planetary_Weight.Resources.resources
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Planetary Weight\Planetary Weight\Planetary Weight\obj\Debug\Planetary Weight.vbproj.GenerateResource.cache
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Planetary Weight\Planetary Weight\Planetary Weight\obj\Debug\Planetary Weight.vbproj.CoreCompileInputs.cache
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Planetary Weight\Planetary Weight\Planetary Weight\bin\Debug\Planetary Weight.exe.config
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Planetary Weight\Planetary Weight\Planetary Weight\bin\Debug\Planetary Weight.exe
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Planetary Weight\Planetary Weight\Planetary Weight\bin\Debug\Planetary Weight.pdb
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Planetary Weight\Planetary Weight\Planetary Weight\bin\Debug\Planetary Weight.xml
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Planetary Weight\Planetary Weight\Planetary Weight\obj\Debug\Planetary Weight.exe
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Planetary Weight\Planetary Weight\Planetary Weight\obj\Debug\Planetary Weight.xml
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Planetary Weight\Planetary Weight\Planetary Weight\obj\Debug\Planetary Weight.pdb

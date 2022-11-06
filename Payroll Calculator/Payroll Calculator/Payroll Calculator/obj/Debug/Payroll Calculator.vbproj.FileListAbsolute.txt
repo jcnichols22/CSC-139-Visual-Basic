@@ -1,0 +1,12 @@
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Payroll Calculator\Payroll Calculator\Payroll Calculator\bin\Debug\Payroll Calculator.exe.config
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Payroll Calculator\Payroll Calculator\Payroll Calculator\bin\Debug\Payroll Calculator.exe
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Payroll Calculator\Payroll Calculator\Payroll Calculator\bin\Debug\Payroll Calculator.pdb
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Payroll Calculator\Payroll Calculator\Payroll Calculator\bin\Debug\Payroll Calculator.xml
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Payroll Calculator\Payroll Calculator\Payroll Calculator\obj\Debug\Payroll Calculator.vbproj.AssemblyReference.cache
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Payroll Calculator\Payroll Calculator\Payroll Calculator\obj\Debug\Payroll_Calculator.frmPayrollCalculator.resources
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Payroll Calculator\Payroll Calculator\Payroll Calculator\obj\Debug\Payroll_Calculator.Resources.resources
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Payroll Calculator\Payroll Calculator\Payroll Calculator\obj\Debug\Payroll Calculator.vbproj.GenerateResource.cache
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Payroll Calculator\Payroll Calculator\Payroll Calculator\obj\Debug\Payroll Calculator.vbproj.CoreCompileInputs.cache
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Payroll Calculator\Payroll Calculator\Payroll Calculator\obj\Debug\Payroll Calculator.exe
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Payroll Calculator\Payroll Calculator\Payroll Calculator\obj\Debug\Payroll Calculator.xml
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Payroll Calculator\Payroll Calculator\Payroll Calculator\obj\Debug\Payroll Calculator.pdb
