@@ -1,0 +1,13 @@
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Karaoke Music Night\Karaoke Music Night\Karaoke Music Night\bin\Debug\Karaoke Music Night.exe.config
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Karaoke Music Night\Karaoke Music Night\Karaoke Music Night\bin\Debug\Karaoke Music Night.exe
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Karaoke Music Night\Karaoke Music Night\Karaoke Music Night\bin\Debug\Karaoke Music Night.pdb
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Karaoke Music Night\Karaoke Music Night\Karaoke Music Night\bin\Debug\Karaoke Music Night.xml
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Karaoke Music Night\Karaoke Music Night\Karaoke Music Night\obj\Debug\Karaoke Music Night.vbproj.AssemblyReference.cache
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Karaoke Music Night\Karaoke Music Night\Karaoke Music Night\obj\Debug\Karaoke_Music_Night.frmKaraokeMusicNight.resources
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Karaoke Music Night\Karaoke Music Night\Karaoke Music Night\obj\Debug\Karaoke_Music_Night.Resources.resources
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Karaoke Music Night\Karaoke Music Night\Karaoke Music Night\obj\Debug\Karaoke_Music_Night.SplashScreen1.resources
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Karaoke Music Night\Karaoke Music Night\Karaoke Music Night\obj\Debug\Karaoke Music Night.vbproj.GenerateResource.cache
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Karaoke Music Night\Karaoke Music Night\Karaoke Music Night\obj\Debug\Karaoke Music Night.vbproj.CoreCompileInputs.cache
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Karaoke Music Night\Karaoke Music Night\Karaoke Music Night\obj\Debug\Karaoke Music Night.exe
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Karaoke Music Night\Karaoke Music Night\Karaoke Music Night\obj\Debug\Karaoke Music Night.xml
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Karaoke Music Night\Karaoke Music Night\Karaoke Music Night\obj\Debug\Karaoke Music Night.pdb
