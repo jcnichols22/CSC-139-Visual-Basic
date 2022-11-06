@@ -1,0 +1,13 @@
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\IMAX Theatre\IMAX Theatre\IMAX Theatre\obj\Debug\IMAX Theatre.vbproj.AssemblyReference.cache
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\IMAX Theatre\IMAX Theatre\IMAX Theatre\obj\Debug\IMAX_Theatre.frmImaxTheatreTickets.resources
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\IMAX Theatre\IMAX Theatre\IMAX Theatre\obj\Debug\IMAX_Theatre.Resources.resources
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\IMAX Theatre\IMAX Theatre\IMAX Theatre\obj\Debug\IMAX_Theatre.SplashScreen1.resources
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\IMAX Theatre\IMAX Theatre\IMAX Theatre\obj\Debug\IMAX Theatre.vbproj.GenerateResource.cache
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\IMAX Theatre\IMAX Theatre\IMAX Theatre\obj\Debug\IMAX Theatre.vbproj.CoreCompileInputs.cache
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\IMAX Theatre\IMAX Theatre\IMAX Theatre\bin\Debug\IMAX Theatre.exe.config
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\IMAX Theatre\IMAX Theatre\IMAX Theatre\bin\Debug\IMAX Theatre.exe
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\IMAX Theatre\IMAX Theatre\IMAX Theatre\bin\Debug\IMAX Theatre.pdb
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\IMAX Theatre\IMAX Theatre\IMAX Theatre\bin\Debug\IMAX Theatre.xml
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\IMAX Theatre\IMAX Theatre\IMAX Theatre\obj\Debug\IMAX Theatre.exe
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\IMAX Theatre\IMAX Theatre\IMAX Theatre\obj\Debug\IMAX Theatre.xml
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\IMAX Theatre\IMAX Theatre\IMAX Theatre\obj\Debug\IMAX Theatre.pdb

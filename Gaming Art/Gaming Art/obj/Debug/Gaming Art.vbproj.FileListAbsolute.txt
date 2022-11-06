@@ -1,0 +1,12 @@
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Gaming Art\Gaming Art\bin\Debug\Gaming Art.exe.config
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Gaming Art\Gaming Art\bin\Debug\Gaming Art.exe
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Gaming Art\Gaming Art\bin\Debug\Gaming Art.pdb
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Gaming Art\Gaming Art\bin\Debug\Gaming Art.xml
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Gaming Art\Gaming Art\obj\Debug\Gaming Art.vbproj.AssemblyReference.cache
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Gaming Art\Gaming Art\obj\Debug\Gaming_Art.frmArt.resources
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Gaming Art\Gaming Art\obj\Debug\Gaming_Art.Resources.resources
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Gaming Art\Gaming Art\obj\Debug\Gaming Art.vbproj.GenerateResource.cache
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Gaming Art\Gaming Art\obj\Debug\Gaming Art.vbproj.CoreCompileInputs.cache
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Gaming Art\Gaming Art\obj\Debug\Gaming Art.exe
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Gaming Art\Gaming Art\obj\Debug\Gaming Art.xml
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Gaming Art\Gaming Art\obj\Debug\Gaming Art.pdb
