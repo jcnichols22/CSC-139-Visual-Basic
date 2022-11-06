@@ -1,0 +1,12 @@
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Comic Convention\Comic Convention\Comic Convention\bin\Debug\Comic Convention.exe.config
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Comic Convention\Comic Convention\Comic Convention\bin\Debug\Comic Convention.exe
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Comic Convention\Comic Convention\Comic Convention\bin\Debug\Comic Convention.pdb
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Comic Convention\Comic Convention\Comic Convention\bin\Debug\Comic Convention.xml
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Comic Convention\Comic Convention\Comic Convention\obj\Debug\Comic Convention.vbproj.AssemblyReference.cache
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Comic Convention\Comic Convention\Comic Convention\obj\Debug\Comic_Convention.Resources.resources
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Comic Convention\Comic Convention\Comic Convention\obj\Debug\Comic Convention.vbproj.GenerateResource.cache
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Comic Convention\Comic Convention\Comic Convention\obj\Debug\Comic Convention.vbproj.CoreCompileInputs.cache
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Comic Convention\Comic Convention\Comic Convention\obj\Debug\Comic Convention.exe
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Comic Convention\Comic Convention\Comic Convention\obj\Debug\Comic Convention.xml
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Comic Convention\Comic Convention\Comic Convention\obj\Debug\Comic Convention.pdb
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Comic Convention\Comic Convention\Comic Convention\obj\Debug\Comic_Convention.frmComicConvention.resources
