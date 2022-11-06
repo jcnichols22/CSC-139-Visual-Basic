@@ -1,0 +1,12 @@
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Project 2 Drink Machine\Drink Machine\Drink Machine\bin\Debug\Drink Machine.exe.config
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Project 2 Drink Machine\Drink Machine\Drink Machine\bin\Debug\Drink Machine.exe
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Project 2 Drink Machine\Drink Machine\Drink Machine\bin\Debug\Drink Machine.pdb
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Project 2 Drink Machine\Drink Machine\Drink Machine\bin\Debug\Drink Machine.xml
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Project 2 Drink Machine\Drink Machine\Drink Machine\obj\Debug\Drink Machine.vbproj.AssemblyReference.cache
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Project 2 Drink Machine\Drink Machine\Drink Machine\obj\Debug\Drink_Machine.frmDrinkMachine.resources
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Project 2 Drink Machine\Drink Machine\Drink Machine\obj\Debug\Drink_Machine.Resources.resources
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Project 2 Drink Machine\Drink Machine\Drink Machine\obj\Debug\Drink Machine.vbproj.GenerateResource.cache
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Project 2 Drink Machine\Drink Machine\Drink Machine\obj\Debug\Drink Machine.vbproj.CoreCompileInputs.cache
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Project 2 Drink Machine\Drink Machine\Drink Machine\obj\Debug\Drink Machine.exe
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Project 2 Drink Machine\Drink Machine\Drink Machine\obj\Debug\Drink Machine.xml
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Project 2 Drink Machine\Drink Machine\Drink Machine\obj\Debug\Drink Machine.pdb

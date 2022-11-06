@@ -1,0 +1,76 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Drink Machine
+</name>
+</assembly>
+<members>
+<member name="T:Drink_Machine.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Drink_Machine.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Drink_Machine.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Drink_Machine.My.Resources.Resources._000145352">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Drink_Machine.My.Resources.Resources._360_F_241372790_IaK4wwYRK0oOOOpX1m1sMnwHMyq7r1Z0">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Drink_Machine.My.Resources.Resources._5a214d4c_b0f7_4eb5_b014_4be4ee70a0ec_1_fa15401fb1e92228dc963f0535d4278c">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Drink_Machine.My.Resources.Resources._6e7918e2_2615_4cc0_bd0d_7e2dedb292bc_c96162b9bf031cc0cb3ed24e2f76961e">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Drink_Machine.My.Resources.Resources._96bf350a_5293_4fb0_b280_4b99d0cc3736_b6b7824e05568773147099b84e0c19e6">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Drink_Machine.My.Resources.Resources.attachment_108654470">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Drink_Machine.My.Resources.Resources.cb4c9f0b_a402_4b63_afb9_efdbdfd72450_450d53103f6484ee1ab57a6c8e665ea4">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Drink_Machine.My.Resources.Resources.diet_dr_pepper">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Drink_Machine.My.Resources.Resources.Dr_pepper">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Drink_Machine.My.Resources.Resources.vector_logo_vending_machine_food_drinks_vector_logo_vending_machine_food_170618978">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
