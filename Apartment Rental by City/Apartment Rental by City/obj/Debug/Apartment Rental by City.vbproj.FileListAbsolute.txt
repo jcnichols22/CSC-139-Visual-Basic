@@ -1,0 +1,12 @@
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Apartment Rental by City\Apartment Rental by City\bin\Debug\Apartment Rental by City.exe.config
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Apartment Rental by City\Apartment Rental by City\bin\Debug\Apartment Rental by City.exe
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Apartment Rental by City\Apartment Rental by City\bin\Debug\Apartment Rental by City.pdb
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Apartment Rental by City\Apartment Rental by City\bin\Debug\Apartment Rental by City.xml
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Apartment Rental by City\Apartment Rental by City\obj\Debug\Apartment Rental by City.vbproj.AssemblyReference.cache
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Apartment Rental by City\Apartment Rental by City\obj\Debug\Apartment_Rental_by_City.Form1.resources
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Apartment Rental by City\Apartment Rental by City\obj\Debug\Apartment_Rental_by_City.Resources.resources
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Apartment Rental by City\Apartment Rental by City\obj\Debug\Apartment Rental by City.vbproj.GenerateResource.cache
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Apartment Rental by City\Apartment Rental by City\obj\Debug\Apartment Rental by City.vbproj.CoreCompileInputs.cache
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Apartment Rental by City\Apartment Rental by City\obj\Debug\Apartment Rental by City.exe
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Apartment Rental by City\Apartment Rental by City\obj\Debug\Apartment Rental by City.xml
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Apartment Rental by City\Apartment Rental by City\obj\Debug\Apartment Rental by City.pdb
